@@ -94,7 +94,7 @@ function criar2 () {
 
 function criar3 () {
 
-    const verificarParagrafo = document.querySelector('p');
+    const verificarParagrafo = document.querySelector('#objetivos p');
 
     if (!verificarParagrafo) {
         const paragrafo = document.createElement('p');
