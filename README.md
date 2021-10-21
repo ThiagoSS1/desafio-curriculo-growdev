@@ -2,7 +2,7 @@
 
 ## 💻 Sobre o projeto
 
-Desafio concluido sobre a criação de um curríulo digital feito em javascript.
+Desafio concluído sobre a criação de um curríulo digital feito em javascript.
 
 ---
 
