@@ -27,6 +27,8 @@ As seguintes ferramentas foram usadas na construção do projeto:
 
 ## Documentação 
 
+- Documentação com diagrama do projeto.
+
 <p align="center">
   <img alt="dev.finances" src="img/wireframe.png" width="100%">
 </p>
