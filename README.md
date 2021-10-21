@@ -18,6 +18,13 @@ As seguintes ferramentas foram usadas na construção do projeto:
 - HTML
 - CSS
 
+## Detalhes sobre o projeto:
+
+- O desafio é estruturado em 3 pastas.
+- Css - Pasta contendo a estilização da página.
+- Img - Pasta contendo a imagem usada no perfil da página.
+- Js - Pasta contendo o codigo utilizado no projeto.
+
 ## 📝 Licença
 
 Este projeto esta sobe a licença [MIT](./LICENSE).
